@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: Colors.pinkAccent,
       ),
       body: const Center(
-        child: Studentcard(),
+        child: StudentCard(),
       ),
     );
   }
